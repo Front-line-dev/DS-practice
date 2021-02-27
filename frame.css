@@ -1,0 +1,19 @@
+.frame {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+header {
+    text-align: center;
+}
+
+main {
+    text-align: center;
+}
+
+textarea {
+    width: 50vw;
+    height: 30vh;
+    resize: none;
+}
